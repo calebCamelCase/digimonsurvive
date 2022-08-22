@@ -15,6 +15,10 @@
     width: 100%;
 }
 
+.topnav-link{
+    text-transform: uppercase;
+}
+
 .section{
     padding: 50px 0;
 }
