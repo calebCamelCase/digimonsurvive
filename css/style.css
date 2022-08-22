@@ -1,0 +1,24 @@
+.header{
+    position: fixed;
+    max-height: 110px;
+    top: 0;
+    left: 0;
+    padding: 20px 0;
+    width: 100%;
+    margin-bottom: 150px;
+    background-color: #eaeae3;
+    z-index: 2;
+}
+
+.logo{
+    color: orange;
+    width: 100%;
+}
+
+.section{
+    padding: 50px 0;
+}
+
+.carousel-image{
+    max-height: 700px;
+}
